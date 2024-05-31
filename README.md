@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sophieod1)
+![](https://komarev.com/ghpvc/?username=sophieod1&color=ff69b4)
 
 
 <!--
